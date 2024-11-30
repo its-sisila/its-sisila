@@ -1,4 +1,4 @@
-### <div align="center">I'm a self-motivated full-stack and a .NET developer👨‍💻. I'm a team player with great communication skills. 🚀</div>  
+### <div align="center">I'm a self-motivated full-stack and a .NET developer👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Node JS Notes App](https://github.com/its-sisila/NodeJS-Notes-App.git)  
@@ -11,7 +11,7 @@
   
 
 - 📫 How to reach me: sisila8400@gmail.com  
-  
+
 
 <br/>  
 
@@ -92,4 +92,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
