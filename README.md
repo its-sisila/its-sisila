@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Node JS Notes App](https://github.com/its-sisila/NodeJS-Notes-App.git)  
   
 
-- 🌱 I’m an Computer Science Undergradute of Plymouth University  
+- 🌱 I’m a Computer Science Undergradute of Plymouth University  
   
 
 - ❓ Ask me about anything related to .NET and MERN stack  
