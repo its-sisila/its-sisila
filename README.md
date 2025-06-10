@@ -1,7 +1,7 @@
 ### <div align="center">I'm a self-motivated full-stack and a .NET developer👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Node JS Notes App](https://github.com/its-sisila/NodeJS-Notes-App.git)  
+- 🔭 I’m currently working on [My Portfolio Website](https://github.com/its-sisila/my_portfolio_website)  
   
 
 - 🌱 I’m a Computer Science Undergradute of Plymouth University  
