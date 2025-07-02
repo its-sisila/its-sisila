@@ -1,7 +1,7 @@
-### <div align="center">I'm a self-motivated full-stack and a .NET developer👨‍💻</div>  
+### <div align="center">Hello World👋 I'm a self-motivated Software Engineer👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/its-sisila/my_portfolio_website)  
+- 🔭 Check out my Portfolio Website https://www.sisila.engineer/  
   
 
 - 🌱 I’m a Computer Science Undergradute of Plymouth University  
