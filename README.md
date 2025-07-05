@@ -5,7 +5,7 @@
 - 🔭 Check out my Portfolio Website https://www.sisila.engineer/  
 
 
-- 🌱 I’m a Computer Science Undergradute of Plymouth University  
+- 🌱 I'm a Computer Science Undergradute of Plymouth University  
 
 
 - ❓ Ask me about anything related to .NET and MERN stack  
@@ -87,6 +87,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
+
 <br />
 
 ----
