@@ -1,10 +1,10 @@
-### <div align="center">Hello World👋 I'm Sisila a self-motivated Software Engineer👨‍💻</div>  
+### <p align="center">Hello World👋 I'm Sisila a self-motivated Software Engineer👨‍💻</p>  
   
 
 - 🔭 Check out my Portfolio Website [www.sisila.engineer  ](https://www.sisila.engineer/)
   
 
-- 🌱 I’m a Computer Science Undergradute of Plymouth University  
+- 🌱 I’m a Computer Science Undergraduate of Plymouth University  
   
 
 - ❓ Ask me about anything related to .NET and MERN stack  
@@ -51,25 +51,24 @@
 
 
 ## Connect with me  
-<div align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/sisila-dhevasiri/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
 </a>  
-</div>  
+</p>  
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=its-sisila&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-sisila&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
 <br />
 
 ----
