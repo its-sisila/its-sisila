@@ -15,18 +15,9 @@ fields_of_interest:
 ]
 ```
 
-<h3 align="center">🌐 Socials</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/sisila-dhevasiri" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-    <a href="https://www.sisila.engineer">
-    <img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:sisila8400@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+ # 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sisila-dhevasiri) [![Website](https://img.shields.io/badge/www.sisila.engineer-Visit-blue?logo=google-chrome&logoColor=white)](https://www.sisila.engineer)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sisila8400@gmail.com) 
 
 
 
