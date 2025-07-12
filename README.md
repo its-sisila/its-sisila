@@ -1,5 +1,8 @@
 # // Warning: 'Hello, World' may contain bugs and dreams.
-👨‍💻 Visit my Portfolio Website www.sisila.engineer <br><br>💬 Ask me about .NET and MERN stack<br><br>📫 How to reach me sisila8400@gmail.com
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Always+Learning...)](https://git.io/typing-svg)
+
+👨‍💻 Visit my Portfolio Website www.sisila.engineer <br><br>📫 How to reach me sisila8400@gmail.com
 
 
 ## 🌐 Socials:
