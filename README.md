@@ -1,6 +1,6 @@
 # // Warning: 'Hello, World' may contain bugs and dreams.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=26&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=700&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Always+Learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=26&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=700&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Checkout+www.sisila.engineer)](https://git.io/typing-svg)
 
 ```yaml
 based_in: Colombo, Sri Lanka
@@ -13,6 +13,7 @@ fields_of_interest:
 "DevOps",
 "Backend"
 ]
+fyi: slowly turning into a github wizard :)
 ```
 
  # 🌐 Socials:
