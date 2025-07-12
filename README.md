@@ -1,10 +1,9 @@
 # // Warning: 'Hello, World' may contain bugs and dreams.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=26&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Always+Learning...;Visit+www.sisila.engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=26&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Always+Learning...)](https://git.io/typing-svg)
 
- <br>
 ```yaml
-Visit my Portfolio Website www.sisila.engineer
+Visit My Portfolio Website: www.sisila.engineer
 ```
 
 ## 🌐 Socials:
