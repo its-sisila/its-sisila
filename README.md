@@ -1,9 +1,11 @@
 # // Warning: 'Hello, World' may contain bugs and dreams.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=26&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Always+Learning...;www.sisila.engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=700&size=26&duration=7000&pause=700&color=43F700&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Sisila+%F0%9F%A4%96;Self-taught+Software+Engineer;Always+Learning...;Visit+www.sisila.engineer)](https://git.io/typing-svg)
 
-👨‍💻 Visit my Portfolio Website www.sisila.engineer <br>
-
+ <br>
+```yaml
+Visit my Portfolio Website www.sisila.engineer
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sisila-dhevasiri) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sisila8400@gmail.com) 
