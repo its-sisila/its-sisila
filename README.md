@@ -13,7 +13,6 @@ fields_of_interest:
 "DevOps",
 "Backend"
 ]
-fyi: slowly turning into a github wizard :)
 ```
 
  # 🌐 Socials:
