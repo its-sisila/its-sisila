@@ -7,11 +7,10 @@ based_in: Colombo, Sri Lanka
 education: BSc (Hons) Computer Science @ University of Plymouth, UK
 fields_of_interest:
 [
+"AI Engineer",
 "Software Engineer",
 "Web Developer",
-"Frontend Developer",
-"DevOps",
-"Backend"
+"DevOps"
 ]
 ```
 
