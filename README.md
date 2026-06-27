@@ -4,12 +4,13 @@
 
 ```yaml
 based_in: Colombo, Sri Lanka
-education: BSc (Hons) Computer Science @ University of Plymouth, UK
+education: Bachelor of Science (Honours) in Computer Science @ University of Plymouth, UK
 fields_of_interest:
 [
-"AI Engineer",
+"AI/ML Engineer",
+"Data Engineer",
 "Software Engineer",
-"Web Developer",
+"Full Stack/Web Developer",
 "DevOps"
 ]
 ```
